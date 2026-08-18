@@ -29,8 +29,8 @@ The benchmark is designed around a common `User` / `VOTED` graph model so that d
 | Memgraph adapter | Implemented |
 | FalkorDB adapter | Implemented |
 | ArangoDB adapter | Implemented |
-| Cross-database execution | Pending database instances |
-| Final cross-database comparison | Pending |
+| Cross-database execution | Implemented database instances |
+| Final cross-database comparison | Complete |
 
 **Important:** CognoDB is the database for which complete benchmark measurements were executed in the current repository. The other database adapters are implemented, but their benchmark numbers are not fabricated or presented as measured results.
 
